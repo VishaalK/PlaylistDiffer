@@ -1,0 +1,55 @@
+{
+    "href": "https://api.spotify.com/v1/users/vishaalk/playlists?offset=0&limit=1",
+    "items": [
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4HgFD0F6UXcOfV5TszCuDD"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4HgFD0F6UXcOfV5TszCuDD",
+            "id": "4HgFD0F6UXcOfV5TszCuDD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/3486095ebee559b7ae942e8f9d31ade1f357296044d132d7f5be71fe262d1b684ae54016f83986429317ba48e9fbab7d24d85c7a7c2ca38a6158cdd9d5d2aa243db3f9b4a223ba6e645299dcfcc30464",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/3486095ebee559b7ae942e8f9d31ade1f357296044d132d7f5be71fe262d1b684ae54016f83986429317ba48e9fbab7d24d85c7a7c2ca38a6158cdd9d5d2aa243db3f9b4a223ba6e645299dcfcc30464",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/3486095ebee559b7ae942e8f9d31ade1f357296044d132d7f5be71fe262d1b684ae54016f83986429317ba48e9fbab7d24d85c7a7c2ca38a6158cdd9d5d2aa243db3f9b4a223ba6e645299dcfcc30464",
+                    "width": 60
+                }
+            ],
+            "name": "wedding ",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTgsMDI2NjhjYzU4ZjQ2ZTgzMWE3MDgzYmI4Mjc1ODY0MGUwMzYzMzRlYg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4HgFD0F6UXcOfV5TszCuDD/tracks",
+                "total": 16
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4HgFD0F6UXcOfV5TszCuDD"
+        }
+    ],
+    "limit": 1,
+    "next": "https://api.spotify.com/v1/users/vishaalk/playlists?offset=1&limit=1",
+    "offset": 0,
+    "previous": null,
+    "total": 31
+}
