@@ -11,6 +11,12 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 # for i, t in enumerate(results['tracks']['items']):
     # print (' ', i, t['name'])
 
-playlists = sp.user_playlists('vishaalk', limit=1)
-print(json.dumps(playlists))
+playlists = sp.user_playlists('vishaalk')
+# print(json.dumps(playlists))
+
+first = playlists['items'][0]
+second = playlists['items'][1]
+print(json.dumps(first))
+
+print(first[''])
 # print(len(playlists))

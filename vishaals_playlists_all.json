@@ -1,0 +1,1235 @@
+{
+    "href": "https://api.spotify.com/v1/users/vishaalk/playlists?offset=0&limit=50",
+    "items": [
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4HgFD0F6UXcOfV5TszCuDD"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4HgFD0F6UXcOfV5TszCuDD",
+            "id": "4HgFD0F6UXcOfV5TszCuDD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/3486095ebee559b7ae942e8f9d31ade1f357296044d132d7f5be71fe262d1b684ae54016f83986429317ba48e9fbab7d24d85c7a7c2ca38a6158cdd9d5d2aa243db3f9b4a223ba6e645299dcfcc30464",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/3486095ebee559b7ae942e8f9d31ade1f357296044d132d7f5be71fe262d1b684ae54016f83986429317ba48e9fbab7d24d85c7a7c2ca38a6158cdd9d5d2aa243db3f9b4a223ba6e645299dcfcc30464",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/3486095ebee559b7ae942e8f9d31ade1f357296044d132d7f5be71fe262d1b684ae54016f83986429317ba48e9fbab7d24d85c7a7c2ca38a6158cdd9d5d2aa243db3f9b4a223ba6e645299dcfcc30464",
+                    "width": 60
+                }
+            ],
+            "name": "wedding ",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTgsMDI2NjhjYzU4ZjQ2ZTgzMWE3MDgzYmI4Mjc1ODY0MGUwMzYzMzRlYg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4HgFD0F6UXcOfV5TszCuDD/tracks",
+                "total": 16
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4HgFD0F6UXcOfV5TszCuDD"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1gSbkP3PrmvJgYzoe0jyFI"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1gSbkP3PrmvJgYzoe0jyFI",
+            "id": "1gSbkP3PrmvJgYzoe0jyFI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/b95f403faaf37aaec3ee6444a6147d88a5c3116c",
+                    "width": 640
+                }
+            ],
+            "name": "girl pawp",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxhNDQ2ZmI2MzU5NTJhYTBiNjAxNTM0ZTU3YzY5NmY0MjgwYjU1MDkx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1gSbkP3PrmvJgYzoe0jyFI/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1gSbkP3PrmvJgYzoe0jyFI"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2s63QVPZbVAJPsMzz7z3Km"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2s63QVPZbVAJPsMzz7z3Km",
+            "id": "2s63QVPZbVAJPsMzz7z3Km",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/10c890602bb0c5e2076e29d10c1d3c4addaa152f6abf620eeb7402052d26396cecd895810f8f2874cc0a4440a6297ad9b44f4597aa8dda712ccee4e0fbe3fce07de64d1a4b6d1f95d7eca531cda69f76",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/10c890602bb0c5e2076e29d10c1d3c4addaa152f6abf620eeb7402052d26396cecd895810f8f2874cc0a4440a6297ad9b44f4597aa8dda712ccee4e0fbe3fce07de64d1a4b6d1f95d7eca531cda69f76",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/10c890602bb0c5e2076e29d10c1d3c4addaa152f6abf620eeb7402052d26396cecd895810f8f2874cc0a4440a6297ad9b44f4597aa8dda712ccee4e0fbe3fce07de64d1a4b6d1f95d7eca531cda69f76",
+                    "width": 60
+                }
+            ],
+            "name": "spring 2018",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDgsZjIyMDE3ZjNkZmFhMzZkODI1NmMzYTFjODU2YzQ0ZDNjYjUzMmE3ZQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2s63QVPZbVAJPsMzz7z3Km/tracks",
+                "total": 30
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2s63QVPZbVAJPsMzz7z3Km"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/599DM7aoKosUDtegWZUKLY"
+            },
+            "href": "https://api.spotify.com/v1/playlists/599DM7aoKosUDtegWZUKLY",
+            "id": "599DM7aoKosUDtegWZUKLY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/0fa5da28a4bc40f2e71bc97dda0346af2e414b806e4bfaca5c09f0f480a51ac3b851e411b7338eb2a2e1d24d595ae190619f8774762fe4db163b7d7ca67ffa99f1b530d868f381c2fbcd3989f89a04f5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/0fa5da28a4bc40f2e71bc97dda0346af2e414b806e4bfaca5c09f0f480a51ac3b851e411b7338eb2a2e1d24d595ae190619f8774762fe4db163b7d7ca67ffa99f1b530d868f381c2fbcd3989f89a04f5",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/0fa5da28a4bc40f2e71bc97dda0346af2e414b806e4bfaca5c09f0f480a51ac3b851e411b7338eb2a2e1d24d595ae190619f8774762fe4db163b7d7ca67ffa99f1b530d868f381c2fbcd3989f89a04f5",
+                    "width": 60
+                }
+            ],
+            "name": "solo dance party",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjMsN2Q5ODcxNDMzMDAxOTI4YTUwNDg1NzFmZjk2OTU5NzI1NTEwNzJmMg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/599DM7aoKosUDtegWZUKLY/tracks",
+                "total": 21
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:599DM7aoKosUDtegWZUKLY"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/288zuL4P1db39oTeQBeBcm"
+            },
+            "href": "https://api.spotify.com/v1/playlists/288zuL4P1db39oTeQBeBcm",
+            "id": "288zuL4P1db39oTeQBeBcm",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/4988546859334f9a5a3fa4acedc5aea2759290268ba7dfdcff5065943f88a9f97cdf2971f1622f40eb23a7448c87338650c0f25cafe2341c65d33af2f2069428467b6fcb62606999e6de8a9ebde84786",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/4988546859334f9a5a3fa4acedc5aea2759290268ba7dfdcff5065943f88a9f97cdf2971f1622f40eb23a7448c87338650c0f25cafe2341c65d33af2f2069428467b6fcb62606999e6de8a9ebde84786",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/4988546859334f9a5a3fa4acedc5aea2759290268ba7dfdcff5065943f88a9f97cdf2971f1622f40eb23a7448c87338650c0f25cafe2341c65d33af2f2069428467b6fcb62606999e6de8a9ebde84786",
+                    "width": 60
+                }
+            ],
+            "name": "Why God, Why God Do I have to suffer?",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjAsNmFmMTk0OTZiN2YwMGFmN2I4NjZiZDc0ZjIzZDY3YzkzNzUzMGZhMA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/288zuL4P1db39oTeQBeBcm/tracks",
+                "total": 16
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:288zuL4P1db39oTeQBeBcm"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/64oRxopzbofLPgm6mJvmoe"
+            },
+            "href": "https://api.spotify.com/v1/playlists/64oRxopzbofLPgm6mJvmoe",
+            "id": "64oRxopzbofLPgm6mJvmoe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/01bb4663dcfa3b8b4fd405ef493dfe447805aa5792db1dda6ed503723c89c3cf03369c908b1393a3aa5b579c2da0dba06b5597127644d3d46f254cdbef70af3c5ef4f72c6581f52ff8ac12f5d310a9da",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/01bb4663dcfa3b8b4fd405ef493dfe447805aa5792db1dda6ed503723c89c3cf03369c908b1393a3aa5b579c2da0dba06b5597127644d3d46f254cdbef70af3c5ef4f72c6581f52ff8ac12f5d310a9da",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/01bb4663dcfa3b8b4fd405ef493dfe447805aa5792db1dda6ed503723c89c3cf03369c908b1393a3aa5b579c2da0dba06b5597127644d3d46f254cdbef70af3c5ef4f72c6581f52ff8ac12f5d310a9da",
+                    "width": 60
+                }
+            ],
+            "name": "Pre-game",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjcsN2VlODYzMWM5ZGJhNGUzY2Y4NDI0NzNhNmUzN2NmZDE0YmUyMmZlNA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/64oRxopzbofLPgm6mJvmoe/tracks",
+                "total": 25
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:64oRxopzbofLPgm6mJvmoe"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3WvkdgmN0tNaNkVlhkowh3"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3WvkdgmN0tNaNkVlhkowh3",
+            "id": "3WvkdgmN0tNaNkVlhkowh3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/08fcdb51ab3cb006f106e914f9768932f787d27b2429251fd900113089d9cd318e8e4faf8ed1eaa38140522fe63aff9dfdabb4a27d1c356bb9a9fa03dc3c3b7d120c1401dd3d61a527b99f45fbd979e0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/08fcdb51ab3cb006f106e914f9768932f787d27b2429251fd900113089d9cd318e8e4faf8ed1eaa38140522fe63aff9dfdabb4a27d1c356bb9a9fa03dc3c3b7d120c1401dd3d61a527b99f45fbd979e0",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/08fcdb51ab3cb006f106e914f9768932f787d27b2429251fd900113089d9cd318e8e4faf8ed1eaa38140522fe63aff9dfdabb4a27d1c356bb9a9fa03dc3c3b7d120c1401dd3d61a527b99f45fbd979e0",
+                    "width": 60
+                }
+            ],
+            "name": "Summer Breeze 2k17",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSwwOTNlODFkOGVhMWJmN2Q4OWZhN2VlYTA1MzkwZTEyZWIxMDhiY2Y5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3WvkdgmN0tNaNkVlhkowh3/tracks",
+                "total": 34
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3WvkdgmN0tNaNkVlhkowh3"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXc8kgYqQLMfH"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXc8kgYqQLMfH",
+            "id": "37i9dQZF1DXc8kgYqQLMfH",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://pl.scdn.co/images/pl/default/d89b0208c8ec78f6726d1f75701a0b6b147e097c",
+                    "width": null
+                }
+            ],
+            "name": "Lush Lofi",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTU1Mzg5NjMzMCwwMDAwMDA4MjAwMDAwMTY5Y2I3MDU2ZTQwMDAwMDE2ODk1NGEzZmFl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXc8kgYqQLMfH/tracks",
+                "total": 128
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DXc8kgYqQLMfH"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0p9aa7iJAaKFuwM0eKusaA"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0p9aa7iJAaKFuwM0eKusaA",
+            "id": "0p9aa7iJAaKFuwM0eKusaA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/42d92ea4e472d2b7d133d55e02ce46fba9e0573d974010663ebd1e267ac11de88e07647eefbfa19da3f4543fb95eef159084f7f80cd68b3a1ed1a49fc7f275da9ab899eae0d809788b0ffd75ac3d8b71",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/42d92ea4e472d2b7d133d55e02ce46fba9e0573d974010663ebd1e267ac11de88e07647eefbfa19da3f4543fb95eef159084f7f80cd68b3a1ed1a49fc7f275da9ab899eae0d809788b0ffd75ac3d8b71",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/42d92ea4e472d2b7d133d55e02ce46fba9e0573d974010663ebd1e267ac11de88e07647eefbfa19da3f4543fb95eef159084f7f80cd68b3a1ed1a49fc7f275da9ab899eae0d809788b0ffd75ac3d8b71",
+                    "width": 60
+                }
+            ],
+            "name": "shower ",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDIsYTU1YjZiZDM3YTBlZjJkMjRiZWZhYmI0ODVkYWM4ZmE5NzM0YWFmMA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0p9aa7iJAaKFuwM0eKusaA/tracks",
+                "total": 18
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0p9aa7iJAaKFuwM0eKusaA"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/60TwO0NbwLD7ToqRSWDcgA"
+            },
+            "href": "https://api.spotify.com/v1/playlists/60TwO0NbwLD7ToqRSWDcgA",
+            "id": "60TwO0NbwLD7ToqRSWDcgA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/42d92ea4e472d2b7d133d55e02ce46fba9e0573d7d09485c6afb144bf39410ff8364e0eb1f47784fd430e464fd2de5faa1dc10f3d30dfc84b8cd83eee96838cca05e059186e9f09eec9256c453c37726",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/42d92ea4e472d2b7d133d55e02ce46fba9e0573d7d09485c6afb144bf39410ff8364e0eb1f47784fd430e464fd2de5faa1dc10f3d30dfc84b8cd83eee96838cca05e059186e9f09eec9256c453c37726",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/42d92ea4e472d2b7d133d55e02ce46fba9e0573d7d09485c6afb144bf39410ff8364e0eb1f47784fd430e464fd2de5faa1dc10f3d30dfc84b8cd83eee96838cca05e059186e9f09eec9256c453c37726",
+                    "width": 60
+                }
+            ],
+            "name": "kyle concert ",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTAsNzQ2OTQ2M2VjZjQyZDBmNzE0Y2VkNDYwZmRmZjIzZTNjNDdiNjc3OA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/60TwO0NbwLD7ToqRSWDcgA/tracks",
+                "total": 8
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:60TwO0NbwLD7ToqRSWDcgA"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6gkY5vWqEXbltvxrGqbfJr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6gkY5vWqEXbltvxrGqbfJr",
+            "id": "6gkY5vWqEXbltvxrGqbfJr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/443c2f393d74bbe325d50b8b13b59bf2f74d3fde4607908a60d237e0ce0584401a61b79815ce4ae24ad81d5c0de983455cbdbbbbe32e6dbc5bb49a67c9309b2460e16e6df95047e55b510ac30f59dc07",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/443c2f393d74bbe325d50b8b13b59bf2f74d3fde4607908a60d237e0ce0584401a61b79815ce4ae24ad81d5c0de983455cbdbbbbe32e6dbc5bb49a67c9309b2460e16e6df95047e55b510ac30f59dc07",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/443c2f393d74bbe325d50b8b13b59bf2f74d3fde4607908a60d237e0ce0584401a61b79815ce4ae24ad81d5c0de983455cbdbbbbe32e6dbc5bb49a67c9309b2460e16e6df95047e55b510ac30f59dc07",
+                    "width": 60
+                }
+            ],
+            "name": "Road Trip",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NiwxMTVjZmZiMDFhNWU1YWZhZDcyMDVkNWVhNDc2MjhiMjZhZDg1MDk4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6gkY5vWqEXbltvxrGqbfJr/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6gkY5vWqEXbltvxrGqbfJr"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaXB8fQg7xif",
+            "id": "37i9dQZF1DXaXB8fQg7xif",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://pl.scdn.co/images/pl/default/887b341f19608d3949491c6ee8f920cd0868437c",
+                    "width": null
+                }
+            ],
+            "name": "Dance Party",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTU1NjIxOTA2MSwwMDAwMDBlYjAwMDAwMTZhNTVlMjY2MDEwMDAwMDE2OTUwZDMyNTY5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaXB8fQg7xif/tracks",
+                "total": 92
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0lWM6fL2hIaPzggMSCl4x9"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0lWM6fL2hIaPzggMSCl4x9",
+            "id": "0lWM6fL2hIaPzggMSCl4x9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/03f017a0243f8700181a566c8201a0ee992a9e9125c94ed54d2cd65ff9ad182f6a72c62f5e657fbe9e3cabdec79a4d972eba3a1c5322ffd59b4fc693fc52fd54ad72190904dd0e82055b32c14dee0f04",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/03f017a0243f8700181a566c8201a0ee992a9e9125c94ed54d2cd65ff9ad182f6a72c62f5e657fbe9e3cabdec79a4d972eba3a1c5322ffd59b4fc693fc52fd54ad72190904dd0e82055b32c14dee0f04",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/03f017a0243f8700181a566c8201a0ee992a9e9125c94ed54d2cd65ff9ad182f6a72c62f5e657fbe9e3cabdec79a4d972eba3a1c5322ffd59b4fc693fc52fd54ad72190904dd0e82055b32c14dee0f04",
+                    "width": 60
+                }
+            ],
+            "name": "pregame",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTMsNmI3Mzg2ODJhYzUwZjk3MmE5ZWE5OTVlYzY5NzFiODU4OGJkNWJkYg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0lWM6fL2hIaPzggMSCl4x9/tracks",
+                "total": 11
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0lWM6fL2hIaPzggMSCl4x9"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2Q2GXMznKupZbZhvUDCx92"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2Q2GXMznKupZbZhvUDCx92",
+            "id": "2Q2GXMznKupZbZhvUDCx92",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/6c35e8ea543d9eb898b92595cb00224fde187668",
+                    "width": 640
+                }
+            ],
+            "name": "A.R. Rahman \u2013 The Best of A.R. Rahman - Music and Magic from the Composer of Slumdog Millionaire",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxhM2RiODAxZWI3ODU5OTZmZGJjZWRmODc3NDdhOWZlNDRlNjI2OGYz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2Q2GXMznKupZbZhvUDCx92/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2Q2GXMznKupZbZhvUDCx92"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0ZMpdh8n2HXGWjgAT0mgd8"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0ZMpdh8n2HXGWjgAT0mgd8",
+            "id": "0ZMpdh8n2HXGWjgAT0mgd8",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/071c7f412110d8754756e1833d978e5099a426485d78516b21c1845a1fc3b2bbb94c745998c191468125c077cff34a255deaa8f57b9d344447a71a4daeddb7370ff516cb7e6ceed289584998761089b1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/071c7f412110d8754756e1833d978e5099a426485d78516b21c1845a1fc3b2bbb94c745998c191468125c077cff34a255deaa8f57b9d344447a71a4daeddb7370ff516cb7e6ceed289584998761089b1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/071c7f412110d8754756e1833d978e5099a426485d78516b21c1845a1fc3b2bbb94c745998c191468125c077cff34a255deaa8f57b9d344447a71a4daeddb7370ff516cb7e6ceed289584998761089b1",
+                    "width": 60
+                }
+            ],
+            "name": "My Shazam Tracks",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDAsZGViOWVjMzBkNzUyY2JmMWI0NTAzYjRmYzg4N2ExMzllNGMyZmI4OQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0ZMpdh8n2HXGWjgAT0mgd8/tracks",
+                "total": 46
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0ZMpdh8n2HXGWjgAT0mgd8"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1CzhUznIPL2nMSvmwcWYhc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1CzhUznIPL2nMSvmwcWYhc",
+            "id": "1CzhUznIPL2nMSvmwcWYhc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/fc52fd54ad72190904dd0e82055b32c14dee0f04",
+                    "width": 640
+                }
+            ],
+            "name": "Drake \u2013 Take Care (Deluxe)",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Myw2MThlNDdmYTk3ZmMyNWRlYjk4NjZjNWM1MTEyNTQ5YTU3NDM3OTYz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1CzhUznIPL2nMSvmwcWYhc/tracks",
+                "total": 18
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1CzhUznIPL2nMSvmwcWYhc"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7svwixJ4js7VQq3WjgbX1n"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7svwixJ4js7VQq3WjgbX1n",
+            "id": "7svwixJ4js7VQq3WjgbX1n",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ee33bfb1fa9d9131f72fd261b31a341ee4f7f63a",
+                    "width": 640
+                }
+            ],
+            "name": "Usher \u2013 Confessions",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxlOWM5NGVlOGMyOWJkZmE3OTYxZTBlOGI5MDFhYWVhNjM1YmM3ZTA4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7svwixJ4js7VQq3WjgbX1n/tracks",
+                "total": 21
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7svwixJ4js7VQq3WjgbX1n"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2qxJfyzr2u557pMKkyFDaw"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2qxJfyzr2u557pMKkyFDaw",
+            "id": "2qxJfyzr2u557pMKkyFDaw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/2a2e51ede407ca482b328abb82c49fecac3c3a2e",
+                    "width": 640
+                }
+            ],
+            "name": "Drake \u2013 So Far Gone",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MywzMTU4OGI1NTIyYTQwZjhmYTQyY2E5MWZmMjcwMTdjNzJjYmUzNTgx",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2qxJfyzr2u557pMKkyFDaw/tracks",
+                "total": 7
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2qxJfyzr2u557pMKkyFDaw"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX83ZswDLVXae"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX83ZswDLVXae",
+            "id": "37i9dQZF1DX83ZswDLVXae",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://pl.scdn.co/images/pl/default/cc6b9829ddc689b34409432ade77f8609f1491bd",
+                    "width": null
+                }
+            ],
+            "name": "G.O.O.D. Music",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTU0ODc1MDMyMCwwMDAwMDAyYjAwMDAwMTY0MWVjMDNlNWEwMDAwMDE2ODk4YjY3MWI2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX83ZswDLVXae/tracks",
+                "total": 68
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1DX83ZswDLVXae"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2AQQoLYh2L7CPZxQXoQmTK"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2AQQoLYh2L7CPZxQXoQmTK",
+            "id": "2AQQoLYh2L7CPZxQXoQmTK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/92db1dda6ed503723c89c3cf03369c908b1393a3",
+                    "width": 640
+                }
+            ],
+            "name": "Kanye West \u2013 Late Registration",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxhZGFiMmVkZTNlNDEzMTRmNjBhZDAzODQzYWVmZTY4YThhNjM0M2Y5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2AQQoLYh2L7CPZxQXoQmTK/tracks",
+                "total": 21
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2AQQoLYh2L7CPZxQXoQmTK"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4yimIoHQYqHtzBMRfgZm0U"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4yimIoHQYqHtzBMRfgZm0U",
+            "id": "4yimIoHQYqHtzBMRfgZm0U",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/01bb4663dcfa3b8b4fd405ef493dfe447805aa57",
+                    "width": 640
+                }
+            ],
+            "name": "Kanye West \u2013 Graduation",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxlMmVkZDc2NDUyOTZiYTJhNDI5MDNkNWMwY2QxNjRiOGY4ZWI5MDE2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4yimIoHQYqHtzBMRfgZm0U/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4yimIoHQYqHtzBMRfgZm0U"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6JzwSTEgO5ZAWFMcQkfLdp"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6JzwSTEgO5ZAWFMcQkfLdp",
+            "id": "6JzwSTEgO5ZAWFMcQkfLdp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/18688a956169c4de7d1262e3417273a5590f70f11fa56d1fe4f51012913780436a43815b33e9587de3b92b348952e6ebc939b90f425f1cb22bd7560ff2d3a81e33e9f2b8f0f87e14be0d68d46f6166ed",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/18688a956169c4de7d1262e3417273a5590f70f11fa56d1fe4f51012913780436a43815b33e9587de3b92b348952e6ebc939b90f425f1cb22bd7560ff2d3a81e33e9f2b8f0f87e14be0d68d46f6166ed",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/18688a956169c4de7d1262e3417273a5590f70f11fa56d1fe4f51012913780436a43815b33e9587de3b92b348952e6ebc939b90f425f1cb22bd7560ff2d3a81e33e9f2b8f0f87e14be0d68d46f6166ed",
+                    "width": 60
+                }
+            ],
+            "name": "5 song taste test",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTAsNGVlZGYwZGZmZDZmNTMzZjFmOGY1M2ZhYjE0MmU5OTBhYTQ0NDdlYg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6JzwSTEgO5ZAWFMcQkfLdp/tracks",
+                "total": 8
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6JzwSTEgO5ZAWFMcQkfLdp"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2YY0NT4PzsMu83h87b5UXQ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2YY0NT4PzsMu83h87b5UXQ",
+            "id": "2YY0NT4PzsMu83h87b5UXQ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/0294c25e0da7b7e23dfe81f3740217532ae93dae0cae12b917772272ff492b955c976ac35c73eb0018ea6d20b0d127f24bda175eb5533806caa884b88b72b4b00e00c6444e1e0aac692f102731880eb1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/0294c25e0da7b7e23dfe81f3740217532ae93dae0cae12b917772272ff492b955c976ac35c73eb0018ea6d20b0d127f24bda175eb5533806caa884b88b72b4b00e00c6444e1e0aac692f102731880eb1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/0294c25e0da7b7e23dfe81f3740217532ae93dae0cae12b917772272ff492b955c976ac35c73eb0018ea6d20b0d127f24bda175eb5533806caa884b88b72b4b00e00c6444e1e0aac692f102731880eb1",
+                    "width": 60
+                }
+            ],
+            "name": "22nd Birthmas Partay",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDYsOGUzMjcxMzcxNmQ4MTZlOGYwMDYzZDQ0NzM4ZjI3ZmQ1MGI5YzEzMA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2YY0NT4PzsMu83h87b5UXQ/tracks",
+                "total": 44
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2YY0NT4PzsMu83h87b5UXQ"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2KNS7qAtrrSc9YDynmlJsY"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2KNS7qAtrrSc9YDynmlJsY",
+            "id": "2KNS7qAtrrSc9YDynmlJsY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/1fa9171bcff458adfb456e5c9997666a1dc5ef593006ef723751bb831d05510d9a36697f988e99af98e84b212722532392841a20d2782874f2e95bd7f7974e7a42a30a43611e84903ff549d8e18f9111",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/1fa9171bcff458adfb456e5c9997666a1dc5ef593006ef723751bb831d05510d9a36697f988e99af98e84b212722532392841a20d2782874f2e95bd7f7974e7a42a30a43611e84903ff549d8e18f9111",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/1fa9171bcff458adfb456e5c9997666a1dc5ef593006ef723751bb831d05510d9a36697f988e99af98e84b212722532392841a20d2782874f2e95bd7f7974e7a42a30a43611e84903ff549d8e18f9111",
+                    "width": 60
+                }
+            ],
+            "name": "Desi Music",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTAsYTBkNmUzZTJiM2MyYjQ2OGFhNTBkMjZiZDkwNzMzMGU2MWU0YTQ3Yw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2KNS7qAtrrSc9YDynmlJsY/tracks",
+                "total": 8
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2KNS7qAtrrSc9YDynmlJsY"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4doH9ewTaaPH0dpBZhBqfX"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4doH9ewTaaPH0dpBZhBqfX",
+            "id": "4doH9ewTaaPH0dpBZhBqfX",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/1e41a7db491bf627426ba480dc0ef65f18fb7cf4",
+                    "width": 640
+                }
+            ],
+            "name": "Various Artists \u2013 Up",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Myw2NmY5M2Q3ODdlNzU2NzM2NzQyNTZiNzRkOWI1M2IzNzJkYjlkNzcz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4doH9ewTaaPH0dpBZhBqfX/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4doH9ewTaaPH0dpBZhBqfX"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6jfNSDN0hmkt6Exrxc3d2B"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6jfNSDN0hmkt6Exrxc3d2B",
+            "id": "6jfNSDN0hmkt6Exrxc3d2B",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/6695e3679c8ce160a188eef493a44c3624ac8c21",
+                    "width": 640
+                }
+            ],
+            "name": "Bill Danoff \u2013 Premium Wind Ensemble Collection of GHIBLI",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxlNGM2Zjg4ZGY5NWE2MGVmODIxOGVlYjNmZDRkODA0N2NiYmNmZDU2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6jfNSDN0hmkt6Exrxc3d2B/tracks",
+                "total": 10
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6jfNSDN0hmkt6Exrxc3d2B"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0y0q6NTDFWwEAED6o6aW2m"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0y0q6NTDFWwEAED6o6aW2m",
+            "id": "0y0q6NTDFWwEAED6o6aW2m",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/438942ba91ba033ecd7d822db024e03821c3c0c7",
+                    "width": 640
+                }
+            ],
+            "name": "John Williams \u2013 Star Wars Episode V: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxhYWUwYjU1Yjg2YTY0YmI2NTQzYWVjNTQyOWM5MDIyYTcwN2E5ZWY5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0y0q6NTDFWwEAED6o6aW2m/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0y0q6NTDFWwEAED6o6aW2m"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/73pXIuzirSakY5X2vMdWha"
+            },
+            "href": "https://api.spotify.com/v1/playlists/73pXIuzirSakY5X2vMdWha",
+            "id": "73pXIuzirSakY5X2vMdWha",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/1e41a7db491bf627426ba480dc0ef65f18fb7cf4",
+                    "width": 640
+                }
+            ],
+            "name": "Various Artists \u2013 Up",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Myw1MGM4ZmE3NWVlNGUyMTRiNTg0MzU3MmE4NWExNmE0YWFmMWU0ODg2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/73pXIuzirSakY5X2vMdWha/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:73pXIuzirSakY5X2vMdWha"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5n5rXFRBaPiZb0B3ZcNc2k"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5n5rXFRBaPiZb0B3ZcNc2k",
+            "id": "5n5rXFRBaPiZb0B3ZcNc2k",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/99dcdded7d2fe4fc7ea8ec341c7637ee005c3af6",
+                    "width": 640
+                }
+            ],
+            "name": "Various Artists \u2013 Ratatouille",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Myw3NzgyMDBhYjJjNzUyZTQ5ZGU2MWUwNzRlMTJlMmQ2MzY2NTY0MTkz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5n5rXFRBaPiZb0B3ZcNc2k/tracks",
+                "total": 24
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5n5rXFRBaPiZb0B3ZcNc2k"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4ZblJzsbrIF1zJ01BPi9cI"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4ZblJzsbrIF1zJ01BPi9cI",
+            "id": "4ZblJzsbrIF1zJ01BPi9cI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/cefcb2e28e9137d8d1b403026ffd2b334d07d1d1",
+                    "width": 640
+                }
+            ],
+            "name": "Maroon 5 \u2013 Songs About Jane",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MywyYWYyOTFiNjBlYWZhYTliYzhmYTU3OTg2ZjQ5YzdmMTU4MDMwNjBk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4ZblJzsbrIF1zJ01BPi9cI/tracks",
+                "total": 12
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4ZblJzsbrIF1zJ01BPi9cI"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2zaIvTr6NXQjrAHue1AcoN"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2zaIvTr6NXQjrAHue1AcoN",
+            "id": "2zaIvTr6NXQjrAHue1AcoN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/edd28d7f2d0be040373b3d54f204d7ed72238192",
+                    "width": 640
+                }
+            ],
+            "name": "Kendrick Lamar \u2013 good kid, m.A.A.d city",
+            "owner": {
+                "display_name": "Vishaal Kalwani",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/vishaalk"
+                },
+                "href": "https://api.spotify.com/v1/users/vishaalk",
+                "id": "vishaalk",
+                "type": "user",
+                "uri": "spotify:user:vishaalk"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCwzZWU5YTIyZjE5MGU4ZDVjMGNiNWYyYjMzMDU5M2VmOWY5OWFjMjE2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2zaIvTr6NXQjrAHue1AcoN/tracks",
+                "total": 14
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2zaIvTr6NXQjrAHue1AcoN"
+        }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 31
+}
