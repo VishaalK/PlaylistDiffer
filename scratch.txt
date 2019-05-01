@@ -1,0 +1,1 @@
+>>> names = [(playlist['name'], playlist['id']) for i, playlist in enumerate(playlists['items'])]

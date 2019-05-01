@@ -1,6 +1,7 @@
 import os
 import spotipy
 import json
+from pprint import PrettyPrinter
 from spotipy.oauth2 import SpotifyClientCredentials
 
 # convert to environment variables
@@ -16,7 +17,13 @@ playlists = sp.user_playlists('vishaalk')
 
 first = playlists['items'][0]
 second = playlists['items'][1]
-print(json.dumps(first))
+# print(json.dumps(first))
 
-print(first[''])
+pp = PrettyPrinter(indent=4)
+names = [(playlist['name'], playlist['id'], playlist['href']) for i, playlist in enumerate(playlists['items'])]
+
+tracks = sp.user_playlist_tracks('vishaalk', playlist_id='2AQQoLYh2L7CPZxQXoQmTK', fields='items(track(name, href))', limit=10, offset=0)
+
+pp.pprint(tracks['items'])
+# print(first[''])
 # print(len(playlists))
