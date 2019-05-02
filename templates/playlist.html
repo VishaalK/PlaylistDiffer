@@ -1,6 +1,18 @@
 <title>{% block title %}{% endblock %}</title>
-<ul>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<body><div><ul>
 {% for track in tracks %}
   <li><a href="{{ track }}">{{ track }}</a></li>
 {% endfor %}
-</ul>
+</ul></div>
+<div><ul>
+{% for track in tracks %}
+  <li><a href="{{ track }}">{{ track }}</a></li>
+{% endfor %}
+</ul></div>
+<div><ul>
+{% for track in tracks %}
+  <li><a href="{{ track }}">{{ track }}</a></li>
+{% endfor %}
+</ul></div>
+</body>
