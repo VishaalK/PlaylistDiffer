@@ -17,3 +17,4 @@ def hello_world():
     second = playlists['items'][1]
     # return (first['name'] + ' and ' + second['name'])
     return render_template('playlist.html', tracks=tracks_names)
+
