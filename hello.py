@@ -11,6 +11,7 @@ def hello_world():
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
     playlists = sp.user_playlists('vishaalk')
     first = playlists['items'][0]
+    second = playlists['items'][1]
     # tracks = playlists['tracks']
     tracks = sp.user_playlist_tracks('vishaalk', playlist_id='2AQQoLYh2L7CPZxQXoQmTK', fields='items(track(name))', limit=10, offset=0)
     tracks_names = [track['track']['name'] for track in tracks['items']]
